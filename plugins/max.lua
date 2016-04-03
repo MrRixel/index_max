@@ -7,7 +7,7 @@ end
 
 return {
   patterns = {
-    "^#index$"
+    "^#max$"
   }, 
   run = run 
 }
