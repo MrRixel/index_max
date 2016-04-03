@@ -7,7 +7,7 @@ end
 
 return {
   patterns = {
-    "^(#!)index$"
+    "^#index$"
   }, 
   run = run 
 }
